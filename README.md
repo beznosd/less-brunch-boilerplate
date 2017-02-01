@@ -8,6 +8,7 @@
    * `$ git clone https://github.com/beznosd/less-brunch-boilerplate.git`
    * `$ cd less-brunch-boilerplate`
    * `$ npm install`
+   * `$ npm install -g brunch`
    * `$ brunch watch --server`
    * Открыть в браузере адрес `http://localhost:3333`
 
@@ -15,4 +16,5 @@
   1. Клонируете репозиторий
   2. Переходите в папку, в которую git скачал все файлы и создал автоматически
   3. Устанавливаете npm зависимости перечисленные в файле package.json
-  4. Запускаете brunch
+  4. Ставим brunch глобально
+  5. Запускаете brunch
